@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, seja bem-vindo ao meu perfil 
 
-<!--
-**Gabriele2A2024/Gabriele2A2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é *Gabriele Rafaela Godoy Correia*, estou na escola desenvolvendo:
+- tendo aula de robótica no [ALURA](www.alurastart.com.br)
+- estou no 2º ano do ensino médio
+- Estudo na escola Joaquim Ferreira Lima
 
-Here are some ideas to get you started:
+## Voce pode entrar em contato comigo através de 📫
+rafaelagabriele062@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/Gabriele2A2024/Gabriele2A2024/assets/168728805/9fe8fbae-49a9-4024-8b45-bc889fa8698d)
+
+
